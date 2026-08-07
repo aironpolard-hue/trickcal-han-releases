@@ -1,0 +1,84 @@
+{
+  "format": "trickcal-release-catalog-v1",
+  "updatedAt": "2026-08-07T21:15:00+08:00",
+  "catalogUrls": [
+    "https://xiaozy.dpdns.org/trickcal-release.json",
+    "https://raw.githubusercontent.com/aironpolard-hue/trickcal-han-releases/main/trickcal-release.json"
+  ],
+  "channels": [
+    {
+      "id": "github",
+      "name": "GitHub 原始线路（通常需要代理）",
+      "prefix": ""
+    },
+    {
+      "id": "ghfast",
+      "name": "备用 01 · ghfast.top",
+      "prefix": "https://ghfast.top/"
+    },
+    {
+      "id": "gh-proxy",
+      "name": "备用 02 · gh-proxy.com",
+      "prefix": "https://gh-proxy.com/"
+    },
+    {
+      "id": "ghproxy-net",
+      "name": "备用 03 · ghproxy.net",
+      "prefix": "https://ghproxy.net/"
+    },
+    {
+      "id": "zwy",
+      "name": "备用 04 · gh.zwy.one",
+      "prefix": "https://gh.zwy.one/"
+    },
+    {
+      "id": "llkk",
+      "name": "备用 05 · gh.llkk.cc",
+      "prefix": "https://gh.llkk.cc/"
+    },
+    {
+      "id": "xxooo",
+      "name": "备用 06 · gh.xxooo.cf",
+      "prefix": "https://gh.xxooo.cf/"
+    },
+    {
+      "id": "geekertao",
+      "name": "备用 07 · ghfile.geekertao.top",
+      "prefix": "https://ghfile.geekertao.top/"
+    },
+    {
+      "id": "cxkpro",
+      "name": "备用 08 · ghproxy.cxkpro.top",
+      "prefix": "https://ghproxy.cxkpro.top/"
+    },
+    {
+      "id": "crashmc",
+      "name": "备用 09 · cdn.crashmc.com",
+      "prefix": "https://cdn.crashmc.com/"
+    }
+  ],
+  "app": {
+    "versionCode": 9,
+    "versionName": "1.5.0",
+    "releaseTag": "app-v1.5.0",
+    "assetName": "trickcal-one-click-1.5.0.apk",
+    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.5.0/trickcal-one-click-1.5.0.apk",
+    "notes": "新增设置页、启动自动检查、多下载线路、独立数据包更新和软件更新。"
+  },
+  "data": {
+    "bundleVersion": "2026-08-06",
+    "translatedVersion": "2026-08-06",
+    "originalVersion": "2026-08-06",
+    "releaseTag": "data-2026-08-06",
+    "assetName": "trickcal-data-2026-08-06.zip",
+    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06/trickcal-data-2026-08-06.zip",
+    "notes": "数据包同时包含 9 个汉化文件、9 个配套恢复原版文件和资源清单。"
+  },
+  "desktop": {
+    "versionName": "0.0.1",
+    "releaseTag": "desktop-v0.0.1",
+    "assetName": "trickcal-patch-studio-0.0.1.7z",
+    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/desktop-v0.0.1/trickcal-patch-studio-0.0.1.7z",
+    "notes": "Windows 汉化补丁制作工作台便携包。"
+  }
+}
