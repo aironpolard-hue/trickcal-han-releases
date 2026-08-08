@@ -1,6 +1,6 @@
 {
   "format": "trickcal-release-catalog-v1",
-  "updatedAt": "2026-08-07T21:51:48+08:00",
+  "updatedAt": "2026-08-08T13:58:00+08:00",
   "catalogUrls": [
     "https://xiaozy.dpdns.org/trickcal-release.json",
     "https://raw.githubusercontent.com/aironpolard-hue/trickcal-han-releases/main/trickcal-release.json"
@@ -58,12 +58,12 @@
     }
   ],
   "app": {
-    "versionCode": 10,
-    "versionName": "1.5.1",
-    "releaseTag": "app-v1.5.1",
-    "assetName": "trickcal-one-click-1.5.1.apk",
-    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.5.1/trickcal-one-click-1.5.1.apk",
-    "notes": "新增底部“汉化 / 设置”双页面，启动时检查软件、汉化文件和恢复文件版本，并支持多条下载路线。"
+    "versionCode": 11,
+    "versionName": "1.6.0",
+    "releaseTag": "app-v1.6.0",
+    "assetName": "trickcal-one-click-1.6.0.apk",
+    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.0/trickcal-one-click-1.6.0.apk",
+    "notes": "软件改为轻量装载器，汉化资源与恢复资源可在设置页按需获取。"
   },
   "data": {
     "bundleVersion": "2026-08-06",
@@ -76,6 +76,6 @@
     "translatedDirectUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06/trickcal-manual-translation-2026-08-06.zip",
     "originalAssetName": "trickcal-manual-restore-2026-08-06.zip",
     "originalDirectUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06/trickcal-manual-restore-2026-08-06.zip",
-    "notes": "手动汉化包和手动恢复包各包含 9 个配套文件；软件更新数据时会完整下载并合并两包。"
+    "notes": "汉化资源与恢复资源分别提供，可按需获取和使用。"
   }
 }
