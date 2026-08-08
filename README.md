@@ -8,5 +8,9 @@
 
 `trickcal-release.json` 是网站与软件共同读取的唯一公开发布清单。
 
-软件版本使用 `app.versionName`，汉化与恢复资源版本统一使用
-`yyyy-MM-dd-HH-mm` 格式。
+清单只有软件、汉化资源、恢复资源三项。每项只需维护：
+
+- `version`：版本号
+- `url`：文件下载链接
+
+汉化与恢复资源版本统一使用 `yyyy-MM-dd-HH-mm` 格式。
