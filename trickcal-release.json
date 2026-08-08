@@ -1,10 +1,6 @@
 {
   "format": "trickcal-release-catalog-v1",
-  "updatedAt": "2026-08-08T16:23:00+08:00",
-  "catalogUrls": [
-    "https://xiaozy.dpdns.org/trickcal-release.json",
-    "https://raw.githubusercontent.com/aironpolard-hue/trickcal-han-releases/main/trickcal-release.json"
-  ],
+  "updatedAt": "2026-08-08T21:13:33+08:00",
   "channels": [
     {
       "id": "original",
@@ -58,24 +54,24 @@
     }
   ],
   "app": {
-    "versionCode": 12,
-    "versionName": "1.6.1",
-    "releaseTag": "app-v1.6.1",
-    "assetName": "trickcal-one-click-1.6.1.apk",
-    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.1/trickcal-one-click-1.6.1.apk",
-    "notes": "修正版本提示处理，检测到版本差异时仍可继续执行一键汉化。"
+    "versionCode": 13,
+    "versionName": "1.6.2",
+    "releaseTag": "app-v1.6.2",
+    "assetName": "trickcal-one-click-1.6.2.apk",
+    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.2/trickcal-one-click-1.6.2.apk",
+    "notes": "更新检查与资源版本显示进一步优化。"
   },
   "data": {
-    "bundleVersion": "2026-08-06",
-    "translatedVersion": "2026-08-06",
-    "originalVersion": "2026-08-06",
-    "releaseTag": "data-2026-08-06",
-    "assetName": "trickcal-manual-translation-2026-08-06.zip",
-    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06/trickcal-manual-translation-2026-08-06.zip",
-    "translatedAssetName": "trickcal-manual-translation-2026-08-06.zip",
-    "translatedDirectUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06/trickcal-manual-translation-2026-08-06.zip",
-    "originalAssetName": "trickcal-manual-restore-2026-08-06.zip",
-    "originalDirectUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06/trickcal-manual-restore-2026-08-06.zip",
-    "notes": "汉化资源与恢复资源分别提供，可按需获取和使用。"
+    "bundleVersion": "2026-08-06-19-37",
+    "translatedVersion": "2026-08-06-19-37",
+    "originalVersion": "2026-08-06-19-22",
+    "releaseTag": "data-2026-08-06-19-37",
+    "assetName": "trickcal-manual-translation-2026-08-06-19-37.zip",
+    "directUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06-19-37/trickcal-manual-translation-2026-08-06-19-37.zip",
+    "translatedAssetName": "trickcal-manual-translation-2026-08-06-19-37.zip",
+    "translatedDirectUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06-19-37/trickcal-manual-translation-2026-08-06-19-37.zip",
+    "originalAssetName": "trickcal-manual-restore-2026-08-06-19-22.zip",
+    "originalDirectUrl": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-06-19-37/trickcal-manual-restore-2026-08-06-19-22.zip",
+    "notes": "汉化与恢复资源分别提供，版本精确到分钟。"
   }
 }

@@ -6,4 +6,7 @@
 - 手动汉化文件
 - 手动恢复文件
 
-`trickcal-release.json` 使用手工维护的版本号，供软件启动检查与下载路线选择使用。
+`trickcal-release.json` 是网站与软件共同读取的唯一公开发布清单。
+
+软件版本使用 `app.versionName`，汉化与恢复资源版本统一使用
+`yyyy-MM-dd-HH-mm` 格式。
