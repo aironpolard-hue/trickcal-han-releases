@@ -1,14 +1,47 @@
 {
   "app": {
-    "version": "1.6.3",
-    "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.3/trickcal-one-click-1.6.3.apk"
+    "version": "1.6.4",
+    "url": [
+      "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://ghfast.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://gh-proxy.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://ghproxy.net/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://gh.zwy.one/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://gh.llkk.cc/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://gh.xxooo.cf/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://ghfile.geekertao.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://ghproxy.cxkpro.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
+      "https://cdn.crashmc.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk"
+    ]
   },
   "translation": {
     "version": "2026-08-08-23-00",
-    "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip"
+    "url": [
+      "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://ghfast.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://gh-proxy.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://ghproxy.net/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://gh.zwy.one/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://gh.llkk.cc/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://gh.xxooo.cf/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://ghfile.geekertao.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://ghproxy.cxkpro.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip",
+      "https://cdn.crashmc.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-translation-2026-08-08-23-00.zip"
+    ]
   },
   "restore": {
     "version": "2026-08-08-23-00",
-    "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip"
+    "url": [
+      "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://ghfast.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://gh-proxy.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://ghproxy.net/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://gh.zwy.one/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://gh.llkk.cc/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://gh.xxooo.cf/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://ghfile.geekertao.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://ghproxy.cxkpro.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip",
+      "https://cdn.crashmc.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-08-08-23-00/trickcal-manual-restore-2026-08-08-23-00.zip"
+    ]
   }
 }
