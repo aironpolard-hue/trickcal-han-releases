@@ -1,17 +1,29 @@
 {
+  "routes": [
+    "",
+    "https://ghfast.top/",
+    "https://gh-proxy.com/",
+    "https://ghproxy.net/",
+    "https://gh.zwy.one/",
+    "https://gh.llkk.cc/",
+    "https://gh.xxooo.cf/",
+    "https://ghfile.geekertao.top/",
+    "https://ghproxy.cxkpro.top/",
+    "https://cdn.crashmc.com/"
+  ],
   "app": {
-    "version": "1.6.4",
+    "version": "1.6.5",
     "url": [
-      "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://ghfast.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://gh-proxy.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://ghproxy.net/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://gh.zwy.one/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://gh.llkk.cc/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://gh.xxooo.cf/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://ghfile.geekertao.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://ghproxy.cxkpro.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk",
-      "https://cdn.crashmc.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.4/trickcal-one-click-1.6.4.apk"
+      "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://ghfast.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://gh-proxy.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://ghproxy.net/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://gh.zwy.one/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://gh.llkk.cc/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://gh.xxooo.cf/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://ghfile.geekertao.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://ghproxy.cxkpro.top/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk",
+      "https://cdn.crashmc.com/https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/app-v1.6.5/trickcal-one-click-1.6.5.apk"
     ]
   },
   "translation": {
