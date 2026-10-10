@@ -24,7 +24,15 @@
     "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-10-08-15-21/huifu.zip"
   },
   "gameapks": {
-    "version": "2026-10-08-15-21",
-    "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/data-2026-10-08-15-21/huifu.zip"
+    "version": "10655",
+    "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/game-10655/Trickcal.Revive_10655.apks"
+  },
+  "mimiapks01": {
+    "version": "0.0.1",
+    "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/untagged-9240e20a0fe739f5d29b/biubiu._4.79.0.apk"
+  },
+  "mimiapks02": {
+    "version": "0.0.1",
+    "url": "https://github.com/aironpolard-hue/trickcal-han-releases/releases/download/untagged-9240e20a0fe739f5d29b/VPN_3.1.0.apk"
   }
 }
