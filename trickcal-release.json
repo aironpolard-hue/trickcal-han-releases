@@ -1,12 +1,21 @@
 {
   "routes": [
     "",
-  "https://cors.isteed.cc/",
-  "https://gh-proxy.org/",
-  "https://v6.gh-proxy.org/",
-  "https://githubproxy.cc/",
-  "https://api.gitproxy.dev/",
-  "https://ghproxy.imciel.com/"
+   "https://ghfast.top/",
+    "https://gh-proxy.com/",
+    "https://ghproxy.net/",
+    "https://gh.zwy.one/",
+    "https://gh.llkk.cc/",
+    "https://gh.xxooo.cf/",
+    "https://ghfile.geekertao.top/",
+    "https://ghproxy.cxkpro.top/",
+    "https://cdn.crashmc.com/"，
+    "https://cors.isteed.cc/",
+    "https://gh-proxy.org/",
+    "https://v6.gh-proxy.org/",
+    "https://githubproxy.cc/",
+    "https://api.gitproxy.dev/",
+    "https://ghproxy.imciel.com/"
   ],
   "app": {
     "version": "1.6.9",
